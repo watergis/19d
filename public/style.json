@@ -50,7 +50,7 @@
         "minzoom": 15,
         "maxzoom": 15,
         "tiles": [
-            "https://19d-open-buildings.netlify.app/tiles/{z}/{x}/{y}.pbf"
+            "./tiles/{z}/{x}/{y}.pbf"
         ],
         "type": "vector"
       }
