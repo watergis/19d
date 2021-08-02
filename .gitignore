@@ -1,2 +1,4 @@
 data/*.mbtiles
 public/tiles/
+# Local Netlify folder
+.netlify
